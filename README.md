@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Corporative Lawyer and self-taught Developer.
+- 🎓 &nbsp; Former Corporate Lawyer and self-taught Developer.
 - 💼 &nbsp; Open to Work.
 - 🌱 &nbsp; Learning more about new Frontend technologies and Backend languages.
 
