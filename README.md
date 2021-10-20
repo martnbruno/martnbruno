@@ -1,10 +1,10 @@
-<h2> Hey there! I'm Martin 👋</h2>
+<h2> Hey there! I'm Martín 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Former Corporate Lawyer and self-taught Developer.
-- 💼 &nbsp; Open to Work.
+- 💼 &nbsp; Currently working at Affirm as a Software Engineer.
 - 🌱 &nbsp; Learning more about new Frontend technologies and Backend languages.
 
 
