@@ -5,7 +5,7 @@
 - 💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Former Corporate Lawyer and self-taught Developer.
 - 💼 &nbsp; Open to Work.
-- 🌱 &nbsp; Learning more about new Frontend and Backend languages.
+- 🌱 &nbsp; Learning more about new Frontend technologies and Backend languages.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
