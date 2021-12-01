@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Former Corporate Lawyer and self-taught Developer.
 - 💼 &nbsp; Currently working at Affirm as a Software Engineer.
 - 🌱 &nbsp; Learning more about new Frontend technologies.
