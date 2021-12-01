@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Former Corporate Lawyer and self-taught Developer.
 - 💼 &nbsp; Currently working at Affirm as a Software Engineer.
-- 🌱 &nbsp; Learning more about new Frontend technologies.
+- 🌱 &nbsp; Learning more every day about  Front-End technologies.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
