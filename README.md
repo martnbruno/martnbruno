@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Former Corporate Lawyer and self-taught Developer.
+- 🎓 &nbsp; Former corporate lawyer and self-taught developer.
 - 💼 &nbsp; Currently working at Affirm as a Software Engineer.
-- 🌱 &nbsp; Learning more every day about  Front-End technologies.
+- 🌱 &nbsp; Learning more every day about Front-End technologies.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
