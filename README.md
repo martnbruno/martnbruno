@@ -1,6 +1,5 @@
 <a href="https://github.com/martnbruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martnbruno&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martnbruno&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martnbruno&theme=gotham&layout=donut&hide_title=true" />
 </a>
 
 <br/>
